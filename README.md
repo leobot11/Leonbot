@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bukalapak.com%2Fp%2Fhobi-koleksi%2Fbuku%2Fpengembangan-diri%2F21j7boy-jual-buku-leonardo-da-vinci-inspirasi-untuk-hidup-lebih-bermakna&psig=AOvVaw0HN3OJzN7uCE7ZHC4H0PG4&ust=1668997243010000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCR0LDZu_sCFQAAAAAdAAAAABAG" width="300" height="300"></a> </br>
+  <a href="#"><img src="https://telegra.ph/file/ace19cd63eaccedc65607.jpg" width="300" height="300"></a> </br>
 </p>
 
 ## Deploy With Heroku 💌
