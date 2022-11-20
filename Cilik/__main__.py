@@ -16,9 +16,9 @@ from Cilik import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
 from Cilik.helpers.misc import create_botlog, git, heroku
 
 MSG_ON = """
-✅ **Cilik-Ubot Activated.**
+✅ **Leonardo-Ubot Activated.**
 **🏷️ Userbot Version -** `{}`
-**Ketik** `.cilik` **untuk Mengecheck Bot**
+**Ketik** `.leon` **untuk Mengecheck Bot**
 """
 
 
@@ -42,7 +42,7 @@ async def main():
             )
         except Exception as a:
             LOGGER("main").warning(a)
-    LOGGER("Cilik").info(f"Cilik-Ubot v{BOT_VER} ⚙️[⚡ Activated ⚡]")
+    LOGGER("Leonardo").info(f"Leonardo-Ubot v{BOT_VER} ⚙️[⚡ Activated ⚡]")
     if bot1 and not str(BOTLOG_CHATID).startswith("-100"):
         await create_botlog(bot1)
     await idle()
@@ -50,7 +50,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("Cilik").info("Starting Cilik-Ubot")
+    LOGGER("Leonardo").info("Starting Cilik-Ubot")
     install()
     git()
     heroku()
